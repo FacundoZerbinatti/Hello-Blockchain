@@ -1,4 +1,4 @@
-#Hello Blockchain project
+# Hello Blockchain project
 
 Pasos para levantar una blockchain local con Ganache y truffle.
 
